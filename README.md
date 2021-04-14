@@ -1,11 +1,10 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O" alt="" height="40" width="40"/>
-[![made-with-java](https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O)
-[![made-with-React](https://drive.google.com/file/d/1-AfHttNnQEeq0reL_EG9vnZok5U5xmrD/view?usp=sharing)
-[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
-[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
-[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O" alt="React" height="35" width="35"/>
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/java.svg?token=AKSC3PQVEFMTFGTF5SBZOT3AO3AEQ" alt="Java" height="35" width="35"/>
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/javascript.svg?token=AKSC3PWCE2VTFFYFHWRBUI3AO3AK4" alt="Javascript" height="35" width="35"/>
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/mysql.svg?token=AKSC3PQHU3WSDS2C7PP62PTAO3ALC" alt="Mysql" height="35" width="35"/>
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/highcharts.svg?token=AKSC3PWWKWBTFS5MZ3JFV5TAO3ALE" alt="Highcharts" height="35" width="35"/>
 
 If you like this repo then please give it a ⭐️
 
