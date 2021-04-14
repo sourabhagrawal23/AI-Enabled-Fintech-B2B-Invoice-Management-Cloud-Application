@@ -6,9 +6,9 @@
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/javascript.svg" alt="Javascript" height="35" width="35"/>
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/mysql.svg" alt="Mysql" height="35" width="35"/>
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/highcharts.svg" alt="Highcharts" height="35" width="35"/>
-</p>
-
 If you like this repo then please give it a ⭐️
+
+</p>
 
 ## Highlevel Objectives
 
