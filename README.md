@@ -7,12 +7,12 @@ If you like this repo then please give it a ⭐️
 
 ## Highlevel Objectives
 
-● To build a full stack Invoice Management Application using ReactJs, JDBC, Java and JSP.
-● Build a responsive Receivables Dashboard and a Customer Details page.
-● Visualize Data in the form of interactive charts.
-● Perform Searching and Advanced Searching operations on the invoices.
-● Modify data in the editable fields of the grid.
-● Integrate and Deploy the ML Model for predicting the first partial payment amount and
+1. To build a full stack Invoice Management Application using ReactJs, JDBC, Java and JSP.
+2. Build a responsive Receivables Dashboard and a Customer Details page.
+3. Visualize Data in the form of interactive charts.
+4. Perform Searching and Advanced Searching operations on the invoices.
+5. Modify data in the editable fields of the grid.
+6. Integrate and Deploy the ML Model for predicting the first partial payment amount and
 the Professor Chatbot.
 
 1. Technical Requirements:
