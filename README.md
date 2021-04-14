@@ -1,7 +1,7 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/download/)
-[![made-with-React](https://img.shields.io/badge/Made%20with-Reactc.js-1f425f.svg)](https://www.java.com/en/download/)
+[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-1f485f.svg)](https://www.java.com/en/download/)
 
 If you like this repo then please give it a ⭐️
 
@@ -15,13 +15,7 @@ If you like this repo then please give it a ⭐️
 6. Integrate and Deploy the ML Model for predicting the first partial payment amount and
 the Professor Chatbot.
 
-1. Technical Requirements:
-   1. The Project requires [JDK 7](https://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) or higher.
-   2. [MYSQL Command Line Client](https://dev.mysql.com/downloads/mysql/) must be installed on your computer.
-2. Setting Up:
-   1. Contact Owner
-## IMP
-The Project may involve any sort of bug as it is currently under development and is subject to change.
+
 ## Screenshots
 ![0](https://github.com/sourabhagrawal23/Shopify/blob/master/Screenshots/0.png?raw=true)
 
