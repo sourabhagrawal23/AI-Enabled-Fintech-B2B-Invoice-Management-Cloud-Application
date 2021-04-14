@@ -1,6 +1,6 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O" alt="" />
+<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O" alt="" height="10" width="10"/>
 [![made-with-java](https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/901914ca05509a66e8a26fa76bddf3bc2cce05e0/Screenshots/react.svg?token=AKSC3PSQWOOLBZSLKGUNT3LAO274O)
 [![made-with-React](https://drive.google.com/file/d/1-AfHttNnQEeq0reL_EG9vnZok5U5xmrD/view?usp=sharing)
 [![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
