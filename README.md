@@ -2,10 +2,10 @@
 
 <p float="left">
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/react.svg" alt="React" height="35" width="35"/>
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/java.svg?token=AKSC3PQVEFMTFGTF5SBZOT3AO3AEQ" alt="Java" height="35" width="35"/>
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/javascript.svg?token=AKSC3PWCE2VTFFYFHWRBUI3AO3AK4" alt="Javascript" height="35" width="35"/>
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/mysql.svg?token=AKSC3PQHU3WSDS2C7PP62PTAO3ALC" alt="Mysql" height="35" width="35"/>
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/highcharts.svg?token=AKSC3PWWKWBTFS5MZ3JFV5TAO3ALE" alt="Highcharts" height="35" width="35"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/java.svg" alt="Java" height="35" width="35"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/javascript.svg" alt="Javascript" height="35" width="35"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/mysql.svg" alt="Mysql" height="35" width="35"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/highcharts.svg" alt="Highcharts" height="35" width="35"/>
 </p>
 
 If you like this repo then please give it a ⭐️
