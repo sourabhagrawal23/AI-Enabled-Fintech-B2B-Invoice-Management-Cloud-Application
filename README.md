@@ -1,5 +1,6 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
+<img src="https://drive.google.com/file/d/1G1DcpYfPjeW12_XIuT5f094v9FNVYBsh/view?usp=sharing" alt="" />
 [![made-with-java](https://drive.google.com/file/d/1G1DcpYfPjeW12_XIuT5f094v9FNVYBsh/view?usp=sharing)
 [![made-with-React](https://drive.google.com/file/d/1-AfHttNnQEeq0reL_EG9vnZok5U5xmrD/view?usp=sharing)
 [![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
