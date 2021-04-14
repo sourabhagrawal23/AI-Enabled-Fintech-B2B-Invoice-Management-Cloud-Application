@@ -38,7 +38,7 @@ the Professor Chatbot.
 
 ![2](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_7.png?raw=true)
 
-### 4.Prpfessor - A Digital Assistant
+### 4.Professor - A Digital Assistant
 
 ![3](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_2.png?raw=true)
 
