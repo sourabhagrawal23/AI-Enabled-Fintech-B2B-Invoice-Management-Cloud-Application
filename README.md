@@ -21,7 +21,7 @@ If you like this repo then please give it a ⭐️
 6. To build a Machine Learning Model to predict the first partial payment amount of an
 invoice when it gets created in the system.
 7. Create a collections digital assistant - Freeda.
-8.. Integrate and Deploy the ML Model for predicting the first partial payment amount and
+8. Integrate and Deploy the ML Model for predicting the first partial payment amount and
 the Professor Chatbot.
 
 
