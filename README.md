@@ -1,6 +1,6 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
-<p float="left">
+<p float="left" align="center">
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/react.svg" alt="React" height="35" width="35"/>
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/java.svg" alt="Java" height="35" width="35"/>
 <img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/javascript.svg" alt="Javascript" height="35" width="35"/>
