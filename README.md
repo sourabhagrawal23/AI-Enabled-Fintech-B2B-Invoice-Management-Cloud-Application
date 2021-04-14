@@ -21,22 +21,34 @@ the Professor Chatbot.
 
 ## Overview on Components
 
-### Home Screen
+### 1.Home Screen
 ![0](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_1.png?raw=true)
 
-### Understanding React Components in the Home Screen
+### 2.Understanding React Components in the Home Screen
 
 ![1](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_6.png?raw=true)
 
-![2](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_3.png?raw=true)
+### 3.Highcharts Data Visualisation
 
-![3](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_4.png?raw=true)
+![2](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_7.png?raw=true)
 
-![4](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_5.png?raw=true)
+### 4.Prpfessor - A Digital Assistant
 
-![5](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_2.png?raw=true)
+![3](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_2.png?raw=true)
 
-![6](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_7.png?raw=true)
+### 5.Professor integrated with the dashboard as a side bar
+
+![4](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_3.png?raw=true)
+
+### 6.Drilldown Page for a specific Invoice
+
+![5](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_4.png?raw=true)
+
+### 7.Data updation using drilldown popup
+
+![6](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_5.png?raw=true)
+
+### 8.Advanced Search Functionality (Popup in the bottom left)
 
 ![7](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_8.png?raw=true)
 
