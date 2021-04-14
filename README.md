@@ -21,10 +21,10 @@ the Professor Chatbot.
 
 ## Overview on Components
 
-# Home Screen
+### Home Screen
 ![0](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_1.png?raw=true)
 
-# Understanding React Components in the Home Screen
+### Understanding React Components in the Home Screen
 
 ![1](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_6.png?raw=true)
 
