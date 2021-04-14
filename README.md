@@ -1,7 +1,7 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/download/)
-[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-1f485f.svg)](https://www.java.com/en/download/)
+[![made-with-React](https://img.shields.io/badge/Made%20with-React.js-2b485f.svg)](https://www.java.com/en/download/)
 
 If you like this repo then please give it a ⭐️
 
