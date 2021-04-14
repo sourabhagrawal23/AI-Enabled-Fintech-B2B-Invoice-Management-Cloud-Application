@@ -20,9 +20,13 @@ the Professor Chatbot.
 
 
 ## Overview on Components
+
+# Home Screen
 ![0](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_1.png?raw=true)
 
-![1](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_2.png?raw=true)
+# Understanding React Components in the Home Screen
+
+![1](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_6.png?raw=true)
 
 ![2](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_3.png?raw=true)
 
@@ -30,7 +34,7 @@ the Professor Chatbot.
 
 ![4](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_5.png?raw=true)
 
-![5](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_6.png?raw=true)
+![5](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_2.png?raw=true)
 
 ![6](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/HRC_7.png?raw=true)
 
