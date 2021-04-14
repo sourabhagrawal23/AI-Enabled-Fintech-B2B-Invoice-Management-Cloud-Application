@@ -3,13 +3,17 @@
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com/en/download/)
 [![made-with-React](https://img.shields.io/badge/Made%20with-Reactc.js-1f425f.svg)](https://www.java.com/en/download/)
 
-
-
-Desktop based application for shopping of mobiles and accessories. Developed using Java SE for Frontend as well as Backend. Used MYSQL Database.
-
 If you like this repo then please give it a ⭐️
 
-## Things you need before getting started
+## Highlevel Objectives
+
+● To build a full stack Invoice Management Application using ReactJs, JDBC, Java and JSP.
+● Build a responsive Receivables Dashboard and a Customer Details page.
+● Visualize Data in the form of interactive charts.
+● Perform Searching and Advanced Searching operations on the invoices.
+● Modify data in the editable fields of the grid.
+● Integrate and Deploy the ML Model for predicting the first partial payment amount and
+the Professor Chatbot.
 
 1. Technical Requirements:
    1. The Project requires [JDK 7](https://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) or higher.
