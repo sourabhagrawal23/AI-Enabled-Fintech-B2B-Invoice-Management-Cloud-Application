@@ -1,7 +1,7 @@
 # AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/eeab77d88796eeb90445bcafa788733e51a933fd/Screenshots/react.svg?token=AKSC3PUCVUC2QJW3773PL3TAO3AWU" alt="React" height="35" width="35"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/react.svg" alt="React" height="35" width="35"/>
 <img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/java.svg?token=AKSC3PQVEFMTFGTF5SBZOT3AO3AEQ" alt="Java" height="35" width="35"/>
 <img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/javascript.svg?token=AKSC3PWCE2VTFFYFHWRBUI3AO3AK4" alt="Javascript" height="35" width="35"/>
 <img src="https://raw.githubusercontent.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/afcc5c4d7ca528fb1bcec68ca8dfad0446ed9fb2/Screenshots/mysql.svg?token=AKSC3PQHU3WSDS2C7PP62PTAO3ALC" alt="Mysql" height="35" width="35"/>
