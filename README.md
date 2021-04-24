@@ -20,9 +20,14 @@ If you like this repo then please give it a ⭐️
 5. Modify data in the editable fields of the grid.
 6. To build a Machine Learning Model to predict the first partial payment amount of an
 invoice when it gets created in the system.
-7. Create a collections digital assistant - Freeda.
+7. Create a collections digital assistant - Professor.
 8. Integrate and Deploy the ML Model for predicting the first partial payment amount and
 the Professor Chatbot.
+
+
+## Understanding the System
+![0](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/System_1.png?raw=true)
+
 
 
 ## Overview on Components
