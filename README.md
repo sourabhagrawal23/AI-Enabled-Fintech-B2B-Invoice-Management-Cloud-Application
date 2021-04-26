@@ -31,7 +31,8 @@ the Professor Chatbot.
 
 ### 2. Conversational Chatbot
 
-<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/intent-match-respond.svg" alt="Dialogflow"/>
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/intent-match-respond.svg" alt="Dialogflow"
+height="140" width="140"/>
 
 
 ## Overview on Components
