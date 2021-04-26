@@ -26,8 +26,12 @@ the Professor Chatbot.
 
 
 ## Understanding the System
+### 1. Basic System
 ![0](https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/System_1.png?raw=true)
 
+### 2. Conversational Chatbot
+
+<img src="https://github.com/sourabhagrawal23/AI-Enabled-Fintech-B2B-Invoice-Management-Cloud-Application/blob/main/Screenshots/intent-match-respond.svg" alt="Dialogflow"/>
 
 
 ## Overview on Components
